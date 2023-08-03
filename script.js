@@ -28,17 +28,3 @@ form.addEventListener('submit',e=>{
     }, 20);
     
 })
-
-
-
-// setTimeout(()=>{
-//     console.log()
-// },2000)
-
-// setInterval(()=>{
-//     console.log()
-// },1000)
-
-
-
-
